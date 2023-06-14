@@ -28,7 +28,7 @@
 
 ## 2. 아키텍처
 
-[![새싹톤drawio (1).jpg](..%2F..%2F..%2FUsers%2Fmoonl%2FDownloads%2F%EC%83%88%EC%8B%B9%ED%86%A4drawio%20%281%29.jpg)](https://app.diagrams.net/#G1h1fhBGKxywWpTtmogD_7UHeVAWD2VNVm)
+![새싹톤drawio](https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a)
 
 ## 3. 백엔드 ERD 및 와이어 프레임
 
