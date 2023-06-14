@@ -15,17 +15,17 @@
 
 ## 1. 사용기술
 
-client Android
+**client** Android
 
-front React, React Native, React Router
+**front**  React, React Native, React Router
 
-backEnd SpringBoot, Gradle, SpringDataJpa
+**backEnd** SpringBoot, Gradle, SpringDataJpa
 
-dataBase Mysql, H2, AWS S3
+**dataBase** Mysql, H2, AWS S3
 
-deploy AWS RDS, AWS EC2, AWS DEPLOY
+**deploy** AWS RDS, AWS EC2, AWS DEPLOY
 
-server Nginx, Tomcat
+**server** Nginx, Tomcat
 
 ## 2. 아키텍처
 
