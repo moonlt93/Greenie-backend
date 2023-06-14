@@ -32,7 +32,9 @@
 
 ## 3. 백엔드 ERD 및 와이어 프레임
 
-다시 만들기
+### [ 백엔드 ERD ]
+
+![image](https://github.com/Greenie-crew/Greenie-backend/assets/71303448/94a258d6-5cac-4697-88cb-caedca0762a6)
 
 ### [ Figma ] 
 https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1
