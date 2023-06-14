@@ -33,7 +33,9 @@
 ## 3. 백엔드 ERD 및 와이어 프레임
 
 다시 만들기
-,피그마 링크 추가
+
+### [ Figma ] 
+https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1
 
 ## 4. 전체 구현 기능
 
