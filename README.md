@@ -68,7 +68,8 @@
 
                 }
             }
-            ```
+
+      ```
 
             
             <br>
@@ -77,7 +78,7 @@
 
 
           4. 우선순위를 정하는 map <br>
-            ```java
+     ```java
               private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
 
         if (numberLists.size() < 2) {
