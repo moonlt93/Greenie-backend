@@ -5,7 +5,7 @@
 | 항목      | 내용                              |
 |---------|---------------------------------|
 | **프로젝트소개**  | 생활속의 소음트러블을 해소하기위한 서비스          |
-| **개발인원**    | 안드로이드 1명, FE 1명, BE 1명          |
+| **구성인원**    | 기획자 1명, 디자이너 1명,안드로이드 1명, FE 1명, BE 1명          |
 | **개발기간**    | 총 20일 (2023-05-23 ~ 2023-06-13) |
 | **성과 및 결과** | 기한내 목표한 기능구현완료 ,CI/CD 파이프라인 구축 배포완료 |
 
@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/googlechrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/> 
  </span>
  <br>
-
+ 
+ <span>
   🎁**ANALYSIS MODEL**🎁  
-  <span>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
   </span>
