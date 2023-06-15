@@ -7,28 +7,13 @@
 | **프로젝트소개**  | 생활속의 소음트러블을 해소하기위한 서비스          |
 | **구성인원**    | 기획자 1명, 디자이너 1명,안드로이드 1명, FE 1명, BE 1명          |
 | **개발기간**    | 총 20일 (2023-05-23 ~ 2023-06-13) |
-| **성과 및 결과** | 기한내 목표한 기능구현완료 ,CI/CD 파이프라인 구축 배포완료 |
+| **구현 기능** | 상품 추천 , 소음분석데이터 관리 api 작성 ,CI/CD 파이프라인 구축 배포완료 |
 
 # [ 프로젝트 설명 ]
 
 ## 1. 사용기술 📚
 <div align="center">
- <span>
-  <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> 
- </span>
- <br>
-  <span>
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
-  </span>
-   <br>
-   <span>
-   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/> 
-</span>
-  <br>
+ 
   <span>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
@@ -49,38 +34,5 @@
 </div>
                 
 
-## 2. 아키텍처 🔔
-<div align="center">
-<img src="https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a"  width="600" height="480">
-</div>
-
-## 3. 백엔드 ERD 및 와이어 프레임 🛠
-
-사진 뭐 넣고 싶은데 와이어프레임 어떻게 보여줄지 추천 받기 
-
-### [ 와이어프레임 ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1)
-
-### [ 백엔드 ERD ]  [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
-
-
-## 4. 전체 구현 기능 🎨
-
-대략적인 기능 
-
-MAIN
-
-소음 측정하기 
-
-소음 트래킹
-
-SUB
-층간 소음줄이기
-상담 신청
-건강챙기기 
-소음 방지제품 
-
-## 5. 시연 영상 ⛏
-
-[유튜브 링크](https://youtu.be/ElwwGIre76s)
-
+## 2. 구현 기능 소개
 
