@@ -39,7 +39,7 @@
 
 - 기술
    - java <br>
-    ◻ 내부 클래스를 활용해서 request 클래스로 들어오고 response 클래스로 나가는 변수를 핸들링하여 원하는 변수만 접근하도록 구현하였습니다.<br>
+    ◻ 내부 클래스를 활용해서 request 클래스로 들어오고 response 클래스로 원하는 변수만 내보내도록 구현하였습니다.<br>
    
     
    - 추천 상품 조회 기능 구현 <br>
@@ -49,10 +49,33 @@
      3. map에 담은 데이터를 value를 기준으로 내림차순으로 정렬하였습니다.
      4. 정렬한 데이터가 추천하는 사이즈만큼 상품 갯수가 되지 않는다면, random 메서드를 활용해서 추천했던 상품을 제외한 나머지 번호에서 추천리스트에
         상품을 추가하였습니다.
+    <br>    
+      2. 우선순위를 정하는 map <br>
+        ```java
+     
+         for (String hashTag : hashTags) {
+
+                String[] noise = hashTag.split(" ");
+
+                List<HashTag> hashTagOptional = hashTagRepository.findAllByHashTagName(noise[0]);
+
+
+                if (hashTagOptional.size() > 0) {
+                    for (HashTag tag : hashTagOptional) {
+                        Long newId = tag.getProduct().getId();
+                        numberCheck.put(newId, numberCheck.getOrDefault(newId, 0) + 1);
+                    }
+
+                }
+            }
+            ```
+
+            
      <br>
      ◻ 아쉬운점 <br>
      - 상품 갯수가 fix되어 있는것을 알고 있기에 가능한 구현이었습니다. <br>
      - 상품 갯수가 100건 1000건이었다면 조회성능이 크게 저하될 것이라 생각합니다. <br>
+     <br>
      ◻ 개선사항 <br>
      - 상품 갯수에 종속적이지 않은 기능 구현. <br>
               
