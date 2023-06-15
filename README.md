@@ -58,7 +58,7 @@
       - 상품 갯수에 종속적이지 않은 기능 구현. <br>
        <br>
   
-     📍 2. 우선순위를 정하는 map <br>
+📍 2. 우선순위를 정하는 map <br>
 
    ```java
       for (String hashTag : hashTags) {
