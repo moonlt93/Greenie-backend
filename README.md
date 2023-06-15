@@ -13,19 +13,19 @@
 
 ## 1. 사용기술
 
-**client** <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+**client** ==> <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 
-**analysisModel** Python, Pycham, Tensorflow
+**analysisModel** ==> Python, Pycham, Tensorflow
 
-**front** React, React Native, React Router
+**front** ==> React, React Native, React Router
 
-**backEnd** SpringBoot, Gradle, SpringDataJpa
+**backEnd** ==> SpringBoot, Gradle, SpringDataJpa
 
-**dataBase** Mysql, H2, AWS S3
+**dataBase** ==> Mysql, H2, AWS S3
 
-**deploy** AWS RDS, AWS EC2, AWS DEPLOY
+**deploy** ==> AWS RDS, AWS EC2, AWS DEPLOY
 
-**server** Nginx, Tomcat
+**server** ==> Nginx, Tomcat
 
 ## 2. 아키텍처
 
