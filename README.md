@@ -1,7 +1,7 @@
 # Greenie-backend
 
 #  [ 프로젝트 개요 ]
-
+<span>
 | 항목      | 내용                              |
 |---------|---------------------------------|
 | **프로젝트소개**  | 생활속의 소음트러블을 해소하기위한 서비스          |
@@ -9,6 +9,8 @@
 | **개발기간**    | 총 20일 (2023-05-23 ~ 2023-06-13) |
 | **성과 및 결과** | 기한내 목표한 기능구현완료 ,CI/CD 파이프라인 구축 배포완료 |
 
+![Greenie's github stats](https://github-readme-stats.vercel.app/api?username=Greenie-crew&show_icons=true&theme=radical)
+</span>
 # [ 프로젝트 설명 ]
 
 ## 1. 사용기술 📚
@@ -28,7 +30,7 @@
   <br>
            
 
-⛳**FRONTEND**⛳ 
+⛳**FRONT END**⛳ 
 <br>
 <span>
    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -39,7 +41,7 @@
 <br>
 
 
-🤿**BACKEND**🤿 
+🤿**BACK END**🤿 
 <br>
 <span>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -60,9 +62,6 @@
 </span>
   <br>
                 
-            
-
-
 
 ## 2. 아키텍처
 
