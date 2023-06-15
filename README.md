@@ -25,6 +25,7 @@
 **front** ==>           <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
                         <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/> 
                         <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
+                        <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/> 
                         <br>
 
 **backEnd** ==> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
