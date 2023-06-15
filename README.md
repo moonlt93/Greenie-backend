@@ -54,6 +54,8 @@
 
 ![새싹톤drawio](https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a)
 
+<img src="https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a"  width="150">
+
 ## 3. 백엔드 ERD 및 와이어 프레임 🛠
 
 사진 뭐 넣고 싶은데 와이어프레임 어떻게 보여줄지 추천 받기 
