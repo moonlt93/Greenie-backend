@@ -13,20 +13,24 @@
 
 ## 1. 사용기술
 
-**client** ==> <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+**client** ==> <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/>   <br>
 
 **analysisModel** ==> Python, Pycham, Tensorflow
 
 **front** ==> React, React Native, React Router
 
 **backEnd** ==> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>, 
-              <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>, 
+                <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>, 
+                <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+                  <br>
+                
+**dataBase** ==>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>, 
+                  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>H2, 
+                  <img src="https://img.shields.io/badge/AWSS3-569A31?style=flat&logo=AWSS3&logoColor=white"/>AWS S3
+                   <br>
+**infra** ==> AWS RDS, AWS EC2, AWS DEPLOY
 
-**dataBase** ==> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>, H2, AWS S3
 
-**deploy** ==> AWS RDS, AWS EC2, AWS DEPLOY
-
-**server** ==> Nginx, Tomcat
 
 ## 2. 아키텍처
 
