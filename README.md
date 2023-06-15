@@ -13,7 +13,7 @@
 
 ## 1. 사용기술
 
-**client** Android
+**client** <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=springboot&logoColor=white"/>
 
 **analysisModel** Python, Pycham, Tensorflow
 
