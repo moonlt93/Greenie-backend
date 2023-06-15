@@ -51,13 +51,13 @@
         상품을 추가하였습니다.
      <br>  
      ◻ 아쉬운점 <br>
-     1. 상품 갯수가 fix되어 있는것을 알고 있기에 가능한 구현이었습니다. <br>
-     2. 상품 갯수가 100건 1000건이었다면 조회성능이 크게 저하될 것이라 생각합니다. <br>
+     a. 상품 갯수가 fix되어 있는것을 알고 있기에 가능한 구현이었습니다. <br>
+     b. 상품 갯수가 100건 1000건이었다면 조회성능이 크게 저하될 것이라 생각합니다. <br>
      <br>
      ◻ 개선사항 <br>
-      1. 상품 갯수에 종속적이지 않은 기능 구현. <br>
+      a. 상품 갯수에 종속적이지 않은 기능 구현. <br>
   
-      2. 우선순위를 정하는 map <br>
+      <source> 2. 우선순위를 정하는 map <br>
 
    ```java
       for (String hashTag : hashTags) {
@@ -77,7 +77,7 @@
    ```
 
 <br>
-          4. 추천 상품 갯수가 작다면 <br>
+       <source>     4. 추천 상품 갯수가 작다면 <br>
      
    ```java
      private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
