@@ -52,24 +52,26 @@
     <br>    
       2. 우선순위를 정하는 map <br>
 
-      ```java
-        for (String hashTag : hashTags) {
+   ```java
+     private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
 
-                String[] noise = hashTag.split(" ");
+        if (numberLists.size() < 2) {
+            int count = 2 - numberLists.size();
 
-                List<HashTag> hashTagOptional = hashTagRepository.findAllByHashTagName(noise[0]);
+            while (count != 0) {
 
+                Long numbers = (long) (Math.random() * 10 + 1);
 
-                if (hashTagOptional.size() > 0) {
-                    for (HashTag tag : hashTagOptional) {
-                        Long newId = tag.getProduct().getId();
-                        numberCheck.put(newId, numberCheck.getOrDefault(newId, 0) + 1);
-                    }
-
+                if (set.contains(numbers)) {
+                    count--;
+                    numberLists.add(new Node(numbers, 0));
+                    set.remove(numbers);
                 }
-            }
 
-     ```
+            }
+        }
+    }
+   ```
 
 <br>
           4. 우선순위를 정하는 map <br>
