@@ -52,7 +52,7 @@
 
 ## 2. 아키텍처 🔔
 <div align="center">
-<img src="https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a"  width="600" height="400">
+<img src="https://github.com/Greenie-crew/.github/assets/71303448/7c894022-9677-4202-8762-0fdc0b378e6a"  width="500" height="299">
 </div>
 
 ## 3. 백엔드 ERD 및 와이어 프레임 🛠
