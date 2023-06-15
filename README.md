@@ -53,7 +53,6 @@
       2. 우선순위를 정하는 map <br>
 
       ```java
-      
         for (String hashTag : hashTags) {
 
                 String[] noise = hashTag.split(" ");
