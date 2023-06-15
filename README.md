@@ -53,6 +53,7 @@
       2. 우선순위를 정하는 map <br>
 
       ```java
+      
          for (String hashTag : hashTags) {
 
                 String[] noise = hashTag.split(" ");
@@ -78,8 +79,9 @@
 
 
           4. 우선순위를 정하는 map <br>
-     ```java
-              private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
+     
+   ```java
+     private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
 
         if (numberLists.size() < 2) {
             int count = 2 - numberLists.size();
