@@ -56,8 +56,9 @@
      <br>
      ◻ 개선사항 <br>
       a. 상품 갯수에 종속적이지 않은 기능 구현. <br>
+       <br>
   
-      <source> 2. 우선순위를 정하는 map <br>
+     📍 2. 우선순위를 정하는 map <br>
 
    ```java
       for (String hashTag : hashTags) {
@@ -77,7 +78,7 @@
    ```
 
 <br>
-       <source>     4. 추천 상품 갯수가 작다면 <br>
+      📍  4. 추천 상품 갯수가 작다면 <br>
      
    ```java
      private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
