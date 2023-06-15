@@ -15,7 +15,6 @@
 <div align="center">
  <span>
   <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/googlechrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/> 
  </span>
  <br>
   <span>
