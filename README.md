@@ -68,8 +68,32 @@
 
                 }
             }
-           
+            
+            <br>
+             4. 우선순위를 정하는 map <br>
+            ```java
+              private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
 
+        if (numberLists.size() < 2) {
+            int count = 2 - numberLists.size();
+
+            while (count != 0) {
+
+                Long numbers = (long) (Math.random() * 10 + 1);
+
+                if (set.contains(numbers)) {
+                    count--;
+                    numberLists.add(new Node(numbers, 0));
+                    set.remove(numbers);
+                }
+
+            }
+        }
+
+    }
+  <br>
+  <hr>
+             
             
      <br>
      ◻ 아쉬운점 <br>
