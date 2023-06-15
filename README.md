@@ -7,7 +7,6 @@
 | 프로젝트소개  | 생활속의 소음트러블을 해소하기위한 서비스          |
 | 개발인원    | 안드로이드 1명, FE 1명, BE 1명          |
 | 개발기간    | 총 20일 (2023-05-23 ~ 2023-06-13) |
-| 구현 기능   | 소음 줄이기 상품 추천, 분석데이터 결과조회        |
 | 성과 및 결과 | 기한내 목표한 기능구현완료 ,CI/CD 파이프라인 구축 배포완료 |
 
 # [ 프로젝트 설명 ]
@@ -15,6 +14,8 @@
 ## 1. 사용기술
 
 **client** Android
+
+**analysisModel** Python, Pycham, Tensorflow
 
 **front** React, React Native, React Router
 
