@@ -29,6 +29,7 @@
            
 
 ⛳**front**⛳ 
+<br>
 <span>
    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
    <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"/> 
@@ -37,7 +38,9 @@
 </span>
 <br>
 
+
 🤿**backEnd**🤿 
+<br>
 <span>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
