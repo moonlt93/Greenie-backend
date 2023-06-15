@@ -70,7 +70,7 @@
    ```
 
 <br>
-          4. 우선순위를 정하는 map <br>
+          4. 추천 상품 갯수가 작다면 <br>
      
    ```java
      private void listSizeMaker(List<Node> numberLists, HashSet<Long> set) {
