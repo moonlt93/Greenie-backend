@@ -26,7 +26,7 @@
                 
 **dataBase** ==>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>, 
                   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>H2, 
-                  <img src="https://img.shields.io/badge/AWSS3-569A31?style=flat&logo=AWSS3&logoColor=white"/>AWS S3
+                  <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white"/>AWS S3
                    <br>
 **infra** ==> AWS RDS, AWS EC2, AWS DEPLOY
 
