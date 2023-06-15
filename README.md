@@ -54,7 +54,7 @@
 
       ```java
       
-         for (String hashTag : hashTags) {
+        for (String hashTag : hashTags) {
 
                 String[] noise = hashTag.split(" ");
 
@@ -70,14 +70,9 @@
                 }
             }
 
-      ```
+     ```
 
-            
-            <br>
-            
-     
-
-
+<br>
           4. 우선순위를 정하는 map <br>
      
    ```java
