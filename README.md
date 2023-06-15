@@ -28,7 +28,7 @@
   <br>
            
 
-⛳**front**⛳ 
+⛳**FRONTEND**⛳ 
 <br>
 <span>
    <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
@@ -39,7 +39,7 @@
 <br>
 
 
-🤿**backEnd**🤿 
+🤿**BACKEND**🤿 
 <br>
 <span>
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -50,7 +50,7 @@
 </span>
 <br>
                   
-🎡**infra**🎡   
+🎡**INFRA**🎡   
 <span>
   <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
