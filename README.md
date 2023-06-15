@@ -67,13 +67,10 @@
 
 ## 3. 백엔드 ERD 및 와이어 프레임
 
-### [ 백엔드 ERD ]
- 
- [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
+### [ 백엔드 ERD ]  [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
 
-### [ Figma ] 
+### [ Figma ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1)
 
-[ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1)
 
 
 ## 4. 전체 구현 기능
