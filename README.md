@@ -67,6 +67,8 @@
 
 ## 3. 백엔드 ERD 및 와이어 프레임
 
+사진 뭐 넣고 싶은데 와이어프레임 어떻게 보여줄지 추천 받기 
+
 ### [ 백엔드 ERD ]  [ERD 주소](https://www.erdcloud.com/d/qro5eibi6BhBKvKSQ)
 
 ### [ Figma ]   [ Figma ](https://www.figma.com/file/D1FJxm69kI0QDLSWs0adiG/%EB%91%90%EB%91%90's-team-library?type=design&node-id=411%3A2&t=cK2CQkRgg4JjV27l-1)
@@ -75,8 +77,21 @@
 
 ## 4. 전체 구현 기능
 
+대략적인 기능 
 
+MAIN
 
-## 5. 개인별 기여
+소음 측정하기 
+소음 트래킹
+
+SUB
+층간 소음줄이기
+상담 신청
+건강챙기기 
+소음 방지제품 
+
+## 5. 시연 영상 
+
+[유튜브 링크](https://youtu.be/ElwwGIre76s)
 
 
