@@ -15,9 +15,12 @@
 
 **client** ==> <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/> 
                <img src="https://img.shields.io/badge/googlechrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/> 
-              <br>
+               <br>
 
-**analysisModel** ==> Python, Pycham, Tensorflow
+  **analysisModel** ==> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+                        <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> 
+                        <br>
+           
 
 **front** ==> React, React Native, React Router
 
@@ -34,10 +37,9 @@
                   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
                   <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
                   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-                  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+                  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
                   <br>
-              , AWS DEPLOY
+            
 
 
 
