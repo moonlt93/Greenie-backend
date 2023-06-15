@@ -19,9 +19,10 @@
 
 **front** ==> React, React Native, React Router
 
-**backEnd** ==> SpringBoot, Gradle, SpringDataJpa
+**backEnd** ==> <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>, 
+              <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>, 
 
-**dataBase** ==> Mysql, H2, AWS S3
+**dataBase** ==> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>, H2, AWS S3
 
 **deploy** ==> AWS RDS, AWS EC2, AWS DEPLOY
 
