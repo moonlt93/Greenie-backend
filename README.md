@@ -32,9 +32,19 @@
   <br>
 
 </div>
-                
+## 2. 유스케이스 및 프로토타입
 
-## 2. 구현 기능 소개 🎈
+### 유스 케이스 
+![image](https://github.com/moonlt93/Greenie-backend/assets/71303448/e37434cb-76a3-4784-8fb2-ca880b86c3ef)
+<br>
+
+### 프로토타입 
+![image](https://github.com/moonlt93/Greenie-backend/assets/71303448/1f93e2c7-27eb-4b22-ba47-c499537de216)
+<br>
+
+
+
+## 3. 구현 기능 소개 🎈
 
 
 
